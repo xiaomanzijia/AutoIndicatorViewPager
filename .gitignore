@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gradle/
+.idea/
+AutoIndicatorViewPager.iml
+AutoIndicatorViewPager/AutoIndicatorViewPager-AutoIndicatorViewPager.iml
+AutoIndicatorViewPager/AutoIndicatorViewPager.iml
+app/app.iml
+gradle/
+gradlew
+gradlew.bat
+local.properties
+app/build
+AutoIndicatorViewPager/build
